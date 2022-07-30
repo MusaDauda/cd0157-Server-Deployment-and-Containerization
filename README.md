@@ -85,4 +85,8 @@ Completing the project involves several steps:
 5. Create a CodePipeline pipeline triggered by GitHub checkins
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
-For more detail about each of these steps, see the project lesson.
+For more detail about each of these steps, see the project lesson
+
+# For Project Review
+
+**External IP :** abd9f92cc0fdd4d13a460be123716a53-1227862729.us-east-2.elb.amazonaws.com 
